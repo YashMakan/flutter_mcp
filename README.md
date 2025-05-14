@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=bdy2mi7S5Nk" target="_blank">
+  <a href="https://www.youtube.com/watch?v=-JKifT44NAM" target="_blank">
     <picture>
-      <img alt="Project image" src="https://img.youtube.com/vi/bdy2mi7S5Nk/0.jpg" width="60%">
+      <img alt="Project image" src="https://img.youtube.com/vi/-JKifT44NAM/0.jpg" width="60%">
     </picture>
   </a>
 </div>
