@@ -1,0 +1,18 @@
+# melos_managed_dependency_overrides: flutter_mcp_core,flutter_mcp_datasources,flutter_mcp_entities,flutter_mcp_repositories,flutter_mcp_usecases,flutter_mcp_widgets,flutter_mcp_state,llm_kit
+dependency_overrides:
+  flutter_mcp_core:
+    path: ../../packages/flutter_mcp_core
+  flutter_mcp_datasources:
+    path: ../../packages/flutter_mcp_datasources
+  flutter_mcp_entities:
+    path: ../../packages/flutter_mcp_entities
+  flutter_mcp_repositories:
+    path: ../../packages/flutter_mcp_repositories
+  flutter_mcp_state:
+    path: ../../packages/flutter_mcp_state
+  flutter_mcp_usecases:
+    path: ../../packages/flutter_mcp_usecases
+  flutter_mcp_widgets:
+    path: ../../packages/flutter_mcp_widgets
+  llm_kit:
+    path: ../../external/llm_kit

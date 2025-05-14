@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/flutter_mcp/melos_flutter_mcp.iml" filepath="$PROJECT_DIR$/apps/flutter_mcp/melos_flutter_mcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_mcp_core/melos_flutter_mcp_core.iml" filepath="$PROJECT_DIR$/packages/flutter_mcp_core/melos_flutter_mcp_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_mcp_datasources/melos_flutter_mcp_datasources.iml" filepath="$PROJECT_DIR$/packages/flutter_mcp_datasources/melos_flutter_mcp_datasources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_mcp_entities/melos_flutter_mcp_entities.iml" filepath="$PROJECT_DIR$/packages/flutter_mcp_entities/melos_flutter_mcp_entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_mcp_repositories/melos_flutter_mcp_repositories.iml" filepath="$PROJECT_DIR$/packages/flutter_mcp_repositories/melos_flutter_mcp_repositories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_mcp_state/melos_flutter_mcp_state.iml" filepath="$PROJECT_DIR$/packages/flutter_mcp_state/melos_flutter_mcp_state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_mcp_usecases/melos_flutter_mcp_usecases.iml" filepath="$PROJECT_DIR$/packages/flutter_mcp_usecases/melos_flutter_mcp_usecases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_mcp_widgets/melos_flutter_mcp_widgets.iml" filepath="$PROJECT_DIR$/packages/flutter_mcp_widgets/melos_flutter_mcp_widgets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/external/llm_kit/melos_llm_kit.iml" filepath="$PROJECT_DIR$/external/llm_kit/melos_llm_kit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_flutter_mcp.iml" filepath="$PROJECT_DIR$/melos_flutter_mcp.iml" />
+    </modules>
+  </component>
+</project>

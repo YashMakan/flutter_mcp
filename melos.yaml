@@ -1,0 +1,6 @@
+name: flutter_mcp
+
+packages:
+  - apps/**
+  - packages/**
+  - external/**

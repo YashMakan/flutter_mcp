@@ -1,0 +1,12 @@
+# melos_managed_dependency_overrides: flutter_mcp_core,flutter_mcp_entities,flutter_mcp_repositories,flutter_mcp_datasources,llm_kit
+dependency_overrides:
+  flutter_mcp_core:
+    path: ../flutter_mcp_core
+  flutter_mcp_datasources:
+    path: ../flutter_mcp_datasources
+  flutter_mcp_entities:
+    path: ../flutter_mcp_entities
+  flutter_mcp_repositories:
+    path: ../flutter_mcp_repositories
+  llm_kit:
+    path: ../../external/llm_kit

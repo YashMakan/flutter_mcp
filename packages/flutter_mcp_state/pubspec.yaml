@@ -1,0 +1,22 @@
+name: flutter_mcp_state
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.2.5
+
+dependencies:
+  flutter_bloc:
+  bloc:
+  equatable:
+  uuid:
+  dartz:
+
+  flutter_mcp_entities:
+  flutter_mcp_usecases:
+  flutter_mcp_core:
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0

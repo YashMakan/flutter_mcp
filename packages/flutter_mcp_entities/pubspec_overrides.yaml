@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: llm_kit
+dependency_overrides:
+  llm_kit:
+    path: ../../external/llm_kit
