@@ -2,7 +2,7 @@
 
 # 🧠 Flutter MCP Client
 
-Welcome to the Flutter MCP Client — a Claude AI desktop interface built with Flutter, following Clean Architecture principles and powered by a modular monorepo using Melos. This application demonstrates the implementation of the Message Communication Protocol (MCP) for rich AI-driven interactions.
+Flutter MCP Client — a Claude AI desktop interface built with Flutter, following Clean Architecture principles and powered by a modular monorepo using Melos. This application demonstrates the implementation of the Model Context Protocol (MCP) for rich AI-driven interactions.
 
 ## 📹 YouTube Demo
 
@@ -10,10 +10,10 @@ Welcome to the Flutter MCP Client — a Claude AI desktop interface built with F
 
 ## 🧰 Features
 
-- 🖥️ Desktop-first Flutter app (Windows, macOS, Linux)
+- 🖥️ Desktop-first Flutter app
 - 🧼 Clean Architecture with modular monorepo
 - 📦 State management using Flutter Bloc
-- 🔌 MCP client/server implementation for interacting with Claude and other LLMs
+- 🔌 MCP client/server implementation for interacting with Gemini
 - 💬 Chat interface with real-time stream updates
 - ⚙️ Add, edit, and manage MCP servers
 - 🧠 Built-in AI and function-calling support
@@ -108,7 +108,7 @@ Each package in `packages/` encapsulates a specific layer or feature:
 
 ## 📡 MCP Protocol Support
 
-This app implements an MCP (Message Communication Protocol) client, enabling AI interactions through structured messages, tool calling, and content embedding.
+This app implements an MCP (Model Context Protocol) client, enabling AI interactions through structured messages, tool calling, and content embedding.
 
 Supported features include:
 
