@@ -1,12 +1,13 @@
-# README.md
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=bdy2mi7S5Nk" target="_blank">
+    <picture>
+      <img alt="Project image" src="https://img.youtube.com/vi/bdy2mi7S5Nk/0.jpg" width="60%">
+    </picture>
+  </a>
+</div>
 
-# 🧠 Flutter MCP Client
 
 Flutter MCP Client — a Claude AI desktop interface built with Flutter, following Clean Architecture principles and powered by a modular monorepo using Melos. This application demonstrates the implementation of the Model Context Protocol (MCP) for rich AI-driven interactions.
-
-## 📹 YouTube Demo
-
-[https://www.youtube.com/watch?v=bdy2mi7S5Nk](https://www.youtube.com/watch?v=bdy2mi7S5Nk)
 
 ## 🧰 Features
 

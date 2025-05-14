@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5002b578-7fd2-4661-9053-0ceb20bc6bbf" name="Changes" comment="initial commit">
+    <list default="true" id="5002b578-7fd2-4661-9053-0ceb20bc6bbf" name="Changes" comment="README updated">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,28 @@
       <option name="project" value="LOCAL" />
       <updated>1747218667853</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="README updated">
+      <created>1747219337159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747219337159</updated>
+    </task>
+    <task id="LOCAL-00003" summary="README updated">
+      <created>1747219342838</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747219342838</updated>
+    </task>
+    <task id="LOCAL-00004" summary="README updated">
+      <created>1747219466941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747219466941</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="README updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="README updated" />
   </component>
 </project>
